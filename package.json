@@ -6,7 +6,7 @@
   "type": "module",
   "engines": {
     "npm": "7.4.0",
-    "node":"15.6.0"
+    "node": "15.6.0"
   },
   "scripts": {
     "start": "node server/index.js",
